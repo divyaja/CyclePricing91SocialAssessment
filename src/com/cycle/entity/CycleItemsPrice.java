@@ -1,5 +1,6 @@
 package com.cycle.entity;
 
+// This is a class where all cycle part prices are defined and used in the subsequent subclasses
 public class CycleItemsPrice {
 	public static final int GEARS = 250;
 	public static final int BREAKS = 500;
